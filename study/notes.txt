@@ -1,0 +1,48 @@
+Most frequent letters: S, O, G, F, D
+S => E
+
+OIS appears 22 times => THE is the most common 3 letter word
+
+WS appears 10 times => WS = _E 
+Possible BE, ME, WE, HE
+
+DSOOSK appears 7 times
+DSOOSK => _ETTE_
+possibly LETTER, BETTER, SETTER, PETTER
+
+one occurance of DSOOSKL => L might be S
+
+M appears alone in one case
+Either A or I
+
+OG appears 8 times => OG = T_
+Only TO
+
+Guesses:
+NMDD => _ALL = BALL, MALL, WALL, TALL, GALL, YALL, FALL, CALL
+EGLO => _OST = MOST, POST, HOST, COST
+CGKE => _ORM = FORM, DORM, WORM
+GNNQKKSFNSL => OCC_RRE_CES = OCCURRENCES
+ESLLMRS => MESSA_E = MESSAGE
+UPCCSKSFO => __FFERENT = DIFFERENT
+SFNKYHOSU => ENCR__TED = ENCRYPTED
+HDMPFOSXO => PLAINTE_T = PLAINTEXT
+LGDVS => SOL_E = SOLVE
+BFGW => _NOW = KNOW
+LYEAGD => SYM_OL = SYMBOL
+CKSJQSFODY => FRE_UENTLY = FREQUENTLY
+
+Doubled:
+- N
+- K
+- S
+- O
+- D
+- E
+- L
+
+Common doubled letters: T, S, L, N, E, O, I, A
+
+GNNQKKPFR appears 4
+EGLO appears 6 times
+MFU appears 6 times
